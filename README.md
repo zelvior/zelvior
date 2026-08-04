@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zelvior&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Performance-Obsessed%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+lightweight%2C+high-performance+web+apps;AI-accelerated+workflow+%2B+hand-tuned+optimization;Runs+flawlessly+on+any+hardware.+Always." />
 
 </div>
 
