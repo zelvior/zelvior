@@ -67,15 +67,16 @@ philosophy: "Ship fast, then make it flawless."
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Zelvior&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Zelvior&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zelvior&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Zelvior&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="49%"/>
-
-</div>
+<table align="center">
+<tr>
+<td width="50%"><img src="https://github-readme-stats.shion.dev/api?username=Zelvior&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/></td>
+<td width="50%"><img src="https://streak-stats.demolab.com/?user=Zelvior&theme=radical&hide_border=true" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zelvior&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/></td>
+<td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=Zelvior&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%"/></td>
+</tr>
+</table>
 
 ---
 
