@@ -70,8 +70,6 @@ philosophy: "Ship fast, then make it flawless."
 <table align="center">
 <tr>
 <td width="50%"><img src="https://streak-stats.demolab.com/?user=Zelvior&theme=radical&hide_border=true" width="100%"/></td>
-</tr>
-<tr>
 <td width="50%"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zelvior&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/></td>
 </tr>
 </table>
