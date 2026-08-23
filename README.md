@@ -3,6 +3,11 @@
 <!-- Live Wave Header with Name -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Zelvior&fontSize=80&fontAlignY=35&desc=Frontend+Developer+%7C+Serverless+Edge+Engineer&descAlignY=60&color=gradient&textBg=false&fontColor=ffffff&gradient=10B981,047857" />
 
+<!-- Typing Animation with Elite Emerald Green Color -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;Serverless+Edge+Engineer;Performance-Obsessed+Builder" />
+
+</div>
+
 ---
 
 ### 💫 About Me
