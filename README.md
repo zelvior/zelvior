@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zelvior&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Performance-Obsessed%20Builder&descAlignY=55&descAlign=50" width="100%"/>
-
-
-</div>
+<!-- Live Wave Header with Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Zelvior&fontSize=80&fontAlignY=35&desc=Frontend+Developer+%7C+Serverless+Edge+Engineer&descAlignY=60&color=gradient&textBg=false&fontColor=ffffff&gradient=10B981,047857" />
 
 ---
 
