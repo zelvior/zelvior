@@ -1,16 +1,86 @@
 <div align="center">
 
-  <!-- Banner Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Zelvior&fontSize=85&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Serverless%20Edge%20Engineer%20%7C%20App%20Creator&descAlignY=58&color=10B981&stroke=047857&strokeWidth=1.5&textBg=false&fontColor=ffffff" width="100%" alt="Zelvior Banner" />
+  <!-- 1. Hero / Header Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Zelvior&fontSize=75&fontAlignY=35&desc=Full-Stack%20Web%20%26%20Android%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=58&color=10B981&stroke=047857&strokeWidth=1&textBg=false&fontColor=ffffff" width="100%" alt="Zelvior Header Banner" />
 
-  <!-- Dynamic Typing Headline -->
   <a href="https://github.com/Zelvior">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=800&color=10B981&center=true&vCenter=true&width=750&lines=Frontend+Developer+%26+Edge+Architect;Android+App+Developer+(Java%2FSketchware+Pro);Hardware-Level+Performance+Optimization;Maintainer+of+zelvior-runtime+%26+npm+packages" alt="Typing Header Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Android+Developer;Performance-Obsessed+Open+Source+Creator;Maintainer+of+zelvior-runtime;Building+Lightweight+%26+Scalable+Edge+Apps" alt="Typing Tagline" />
   </a>
 
-  <br/><br/>
+</div>
 
-  <!-- Interactive Action & Social Badges -->
+<br/>
+
+---
+
+### 💫 2. About Me
+
+- 🚀 **Current Focus**: Building ultra-fast web platforms, edge-computed APIs, and lightweight Android utilities.
+- 🛠️ **Workflow**: AI-Accelerated Prototyping ⚡ ➔ Manual Refactoring 🛠️ ➔ Low-Level Hardware Optimization 🚀.
+- 📦 **Open Source**: Active maintainer of packages on **[npm](https://www.npmjs.com/~zelvior)** including `zelvior-runtime`.
+- 💡 **Philosophy**: *"Ship fast, keep it lean, and optimize down to the bare metal."*
+
+---
+
+### 💻 3. Tech Stack & Skills
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & UI** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Android Native](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **Backend & Edge** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 4. Featured Projects
+
+<div align="center">
+
+| Project | Description & Problem Solved | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **`zelvior-runtime`** | Custom lightweight, high-performance execution engine and micro-utility runtime published on npm. | `JavaScript` • `Node.js` • `npm` | [![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/zelvior-runtime) |
+| **Compile** | Interactive community platform for software developers and AI prompt creators to share code & snippets. | `Next.js` • `Firebase` • `Tailwind` | [![Live](https://img.shields.io/badge/Demo-Visit_Site-10B981?style=flat-square)](https://compilefordevs.vercel.app) |
+| **Audityxe** | AI-assisted web application diagnostic auditing platform and promotional asset generator. | `React` • `Vite` • `Tailwind` | [![Live](https://img.shields.io/badge/Demo-Visit_Site-10B981?style=flat-square)](https://audityxe.vercel.app) |
+| **Z-TempMail** | Privacy-focused, zero-log temporary email router running completely on serverless edge networks. | `Cloudflare Workers` • `Supabase` | [![Live](https://img.shields.io/badge/Demo-Visit_Site-10B981?style=flat-square)](https://zelviortempmail.vercel.app) |
+
+</div>
+
+---
+
+### 📊 5. GitHub Stats & Activity
+
+<div align="center">
+
+  <a href="https://github.com/Zelvior">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zelvior&show_icons=true&theme=emerald&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="170" alt="GitHub Overview Stats" />
+  </a>
+  <a href="https://github.com/Zelvior">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelvior&layout=compact&theme=emerald&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="170" alt="Top Languages Breakdown" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/Zelvior">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zelvior&theme=emerald&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" width="96%" alt="GitHub Commit Streak" />
+  </a>
+
+</div>
+
+---
+
+### 📬 6. Contact & Connect
+
+<div align="center">
+
   <a href="mailto:Zelvior@proton.me">
     <img src="https://img.shields.io/badge/Email-Zelvior%40proton.me-10B981?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Direct" />
   </a>
@@ -20,22 +90,14 @@
   <a href="https://youtube.com/@zelviorhere">
     <img src="https://img.shields.io/badge/YouTube-@zelviorhere-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
-  <a href="https://github.com/Zelvior?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Public_Projects-16191E?style=for-the-badge&logo=github&logoColor=10B981" alt="Public Repos" />
+  <a href="https://github.com/Zelvior">
+    <img src="https://img.shields.io/badge/GitHub-@Zelvior-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 
 </div>
 
 <br/>
 
----
-
-### ⚡ Engineering Overview & Philosophy
-
-```yaml
-Architectural Spec:
-  Identity       : Zelvior (Faizan Raza)
-  Core Domains   : Frontend Engineering, Serverless Edge Infrastructure, Android App Engineering
-  Low-Spec Focus : Hardware-Constrained Execution (32-bit Architecture, Termux CLI, Android ADB)
-  Methodology    : AI-Accelerated Prototyping ⚡ ➔ Manual Code Refactoring 🛠️ ➔ Hardware Optimization 🚀
-  Core Directive : "Ship lean architecture fast, refactor continuously, optimize down to the bare metal."
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
