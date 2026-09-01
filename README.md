@@ -1,16 +1,14 @@
 <div align="center">
 
-  <!-- 1. Hero / Header Section -->
- ![Header](./Zelvior-profile-banner.svg)
-
-  <a href="https://github.com/Zelvior">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Android+Developer;Performance-Obsessed+Open+Source+Creator;Maintainer+of+zelvior-runtime;Building+Lightweight+%26+Scalable+Edge+Apps" alt="Typing Tagline" />
-  </a>
-
-</div>
-
-<br/>
-
+                                                                    
+   ▄▄▄  ▄▄▄       ▄▄ ▄▄              ▄▄▄▄▄▄▄   ▄▄               ▄▄ 
+  █▀██  ██         ██ ██            █▀██▀▀▀     ██              ██ 
+    ██  ██         ██ ██              ██        ██ ▄▄           ██ 
+    ██████   ▄█▀█▄ ██ ██ ▄███▄        ███▀▄███▄ ██ ██ ▄█▀ ▄██▀█ ██ 
+    ██  ██   ██▄█▀ ██ ██ ██ ██      ▄ ██  ██ ██ ██ ████   ▀███▄    
+  ▀██▀  ▀██▄▄▀█▄▄▄▄██▄██▄▀███▀ ▄    ▀██▀ ▄▀███▀▄██▄██ ▀█▄█▄▄██▀ ██ 
+                              ▄█                                   
+                                                                   
 ---
 
 ### 💫 2. About Me
