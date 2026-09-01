@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Hero / Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Zelvior&fontSize=75&fontAlignY=35&desc=Full-Stack%20Web%20%26%20Android%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=58&color=10B981&stroke=047857&strokeWidth=1&textBg=false&fontColor=ffffff" width="100%" alt="Zelvior Header Banner" />
+ ![Header](./github-header-banner.png)
 
   <a href="https://github.com/Zelvior">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Android+Developer;Performance-Obsessed+Open+Source+Creator;Maintainer+of+zelvior-runtime;Building+Lightweight+%26+Scalable+Edge+Apps" alt="Typing Tagline" />
