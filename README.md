@@ -20,7 +20,7 @@
   
   <!-- Quick Socials -->
   <a href="https://github.com/Zelvior"><img src="https://img.shields.io/github/followers/Zelvior?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/Zelvior"><img src="https://img.shields.io/github/stars/Zelvior?style=social" alt="GitHub stars" /></a
+  <a href="https://github.com/Zelvior"><img src="https://img.shields.io/github/stars/Zelvior?style=social" alt="GitHub stars" />
 </div>
 
 <br><br>
