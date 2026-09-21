@@ -99,31 +99,6 @@
 
 <!-- 
   ========================================
-  TELEMETRY (STATS)
-  ========================================
--->
-<h2 align="center" style="color: #10B981;">// Telemetry Data</h2>
-
-<div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zelvior&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&custom_title=System%20Overview" height="170" alt="GitHub Overview Stats" />
-      </td>
-      <td style="border: none;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelvior&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&custom_title=Language%20Distribution" height="170" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zelvior&theme=tokyonight&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&hide_border=true&custom_title=Commit%20Frequency" width="96%" alt="GitHub Activity Graph" />
-</div>
-
-<br><br>
-
-<!-- 
-  ========================================
   COMMS LINK (CONTACT)
   ========================================
 -->
